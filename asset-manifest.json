@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memGfg/static/css/main.a595e0d6.css",
+    "main.js": "/memGfg/static/js/main.157391e8.js",
+    "static/js/787.2f908233.chunk.js": "/memGfg/static/js/787.2f908233.chunk.js",
+    "index.html": "/memGfg/index.html",
+    "main.a595e0d6.css.map": "/memGfg/static/css/main.a595e0d6.css.map",
+    "main.157391e8.js.map": "/memGfg/static/js/main.157391e8.js.map",
+    "787.2f908233.chunk.js.map": "/memGfg/static/js/787.2f908233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a595e0d6.css",
+    "static/js/main.157391e8.js"
+  ]
+}
